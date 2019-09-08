@@ -1,0 +1,20 @@
+<TR>
+			<TD HEIGHT=18 ALIGN=LEFT><U><A HREF="VALUE6">Screen Recording Link:</A></U></TD>
+			 
+			<TD ALIGN=LEFT><BR></TD>
+			<TD ALIGN=LEFT><BR></TD>
+			<TD ALIGN=LEFT><BR></TD>
+			<TD ALIGN=LEFT><BR></TD>
+			<TD ALIGN=LEFT><BR></TD>
+			<TD ALIGN=LEFT><BR></TD>
+		</TR>
+		
+		<TR>
+			<TD HEIGHT=18 ALIGN=LEFT><U><A HREF="file:///D:/GTB_HOME/SCFAUTOMATION/TestResults/ScreenSnapshots/">Screen Snapshot Link:</A></U>
+			<TD ALIGN=LEFT><BR></TD>
+			<TD ALIGN=LEFT><BR></TD>
+			<TD ALIGN=LEFT><BR></TD>
+			<TD ALIGN=LEFT><BR></TD>
+			<TD ALIGN=LEFT><BR></TD>
+			<TD ALIGN=LEFT><BR></TD>
+		</TR>

@@ -1,0 +1,9 @@
+<TR>
+			<TD HEIGHT=19 ALIGN=LEFT><BR></TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER BGCOLOR="#C0C0C0"><FONT FACE="Calibri" COLOR="#000000">Detail</FONT></TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER BGCOLOR="#C0C0C0"><FONT FACE="Calibri" COLOR="#000000">Result</FONT></TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER BGCOLOR="#C0C0C0"><FONT FACE="Calibri" COLOR="#000000">Expected</FONT></TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER BGCOLOR="#C0C0C0"><FONT FACE="Calibri" COLOR="#000000">Actual</FONT></TD>
+			<TD ALIGN=LEFT><BR></TD>
+			<TD ALIGN=LEFT><BR></TD>
+		</TR>

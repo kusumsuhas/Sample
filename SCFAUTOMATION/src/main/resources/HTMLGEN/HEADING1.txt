@@ -1,0 +1,9 @@
+<TR>
+			<TD WIDTH=115 HEIGHT=19 ALIGN=LEFT BGCOLOR="#CCCCFF"><B><FONT FACE="Calibri" COLOR="#000000">VALUE1</FONT></B></TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000" WIDTH=290 ALIGN=LEFT BGCOLOR="#333399"><FONT FACE="Calibri" COLOR="#FFFFFF">VALUE2</FONT></TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000" WIDTH=49 ALIGN=LEFT BGCOLOR="#333399"><FONT FACE="Calibri" COLOR="#FFFFFF"><BR></FONT></TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000" WIDTH=141 ALIGN=LEFT BGCOLOR="#333399"><FONT FACE="Calibri" COLOR="#FFFFFF"><BR></FONT></TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000" WIDTH=127 ALIGN=LEFT BGCOLOR="#333399"><FONT FACE="Calibri" COLOR="#FFFFFF"><BR></FONT></TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000" WIDTH=67 ALIGN=LEFT BGCOLOR="#333399"><FONT FACE="Calibri" COLOR="#FFFFFF"><BR></FONT></TD>
+			<TD WIDTH=67 ALIGN=CENTER BGCOLOR="#FF0000">VALUE3</TD>
+		</TR>
